@@ -1,0 +1,59 @@
+h1 {
+  padding: 12px 15px;
+  background-color: #499b4a;
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+button {
+  background-color: #499b4a;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-collapse: collapse;
+  min-width: 400px;
+  border-radius: 5px 5px 5px 5px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  padding: 10px 12px;
+  min-width: 634px;
+  
+}
+
+.data-table td {
+  padding: 12px 15px;
+  font-weight: inherit;
+}
+
+.data-table tr {
+  border-bottom: 1px solid gray;
+}
+
+.data-table tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.data-table tr:last-of-type {
+  border-bottom: 2px solid #499b4a;
+}
+
+.data-table th {
+  background-color: #499b4a;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+  padding: 12px 15px;
+}
+
+.data-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin-left: auto;
+  margin-right: auto;
+}
