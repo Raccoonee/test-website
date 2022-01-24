@@ -7,7 +7,7 @@ function App() {
     <>
       <h1>WEED DATA 🌿</h1>
       <DataTable />
-      <h2>Created by Devin Dennis</h2>
+      <h2>Created by Raccoonee 🦝</h2>
       <span>
       <p><a href="https://github.com/Raccoonee">GitHub</a></p>
       <p><a href="https://www.youtube.com/channel/UCIwswzNBnEwyWFRNBZ_lbsw">Youtube</a></p>
